@@ -1,0 +1,5 @@
+{
+  "title": "Test Log",
+  "language": "javascript",
+  "code": "let x = 10;\nlog({ action: 'check', val: x });"
+}

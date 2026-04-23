@@ -1,0 +1,10 @@
+{
+  "name": "vibe-project-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix frontend",
+    "test": "npm run test --prefix backend",
+    "start": "npm start --prefix backend"
+  }
+}
